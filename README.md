@@ -4,7 +4,7 @@ I'm a **software developer** based in Spain with experience in building fullstac
 
 ---
 
-## 💡 About me
+## 🧰 Skills & Technologies
 
 - 💻 Backend with **Spring Boot**, **REST APIs**, **JWT**, **JPA**
 - 🌐 Frontend with **HTML**, **CSS**, **JavaScript**, **Bootstrap**
