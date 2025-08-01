@@ -6,7 +6,7 @@ I'm a **software developer** based in Spain with experience in building fullstac
 
 ## 🧰 Skills & Technologies
 
-- 💻 Backend with **JAVA**  **PHP** **Yii 2**  **Symfony** **Spring Boot**, **REST APIs**, **JWT**, **JPA**, **Python**
+- 💻 Backend with **JAVA**, **PHP**, **Yii 2**, **Symfony**, **Spring Boot**, **REST APIs**, **JWT**, **JPA**, **Python**
 - 🌐 Frontend with **HTML**, **CSS**, **JavaScript**, **REACT**, **Angular**, **Bootstrap**
 - 🛠 Tools: **Maven**, **Git**, **Postman**, **Swagger**, **JUnit**, **Mockito**
 - 🧠 Values: clean code, testing, teamwork, continuous learning
